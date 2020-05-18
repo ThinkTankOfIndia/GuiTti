@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Gui repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkTankOfIndia/GuiTti.git"
+  },
+  "author": "Ankush Sood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThinkTankOfIndia/GuiTti/issues"
+  },
+  "homepage": "https://github.com/ThinkTankOfIndia/GuiTti#readme"
+}
